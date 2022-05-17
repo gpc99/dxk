@@ -1,1 +1,1 @@
-# dxk
+print（“Holle world”）
